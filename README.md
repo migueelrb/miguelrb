@@ -11,14 +11,6 @@
             <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
         </div>
               <div align='center' id="badges">
-                  <a href="https://www.linkedin.com/in/jose-miguel-gutierrez-hernandez-392261185/">
-                    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-                  </a>
-                  <a href="https://www.youtube.com/channel/UCTWlj50u79ro4dzcUQYW5uw">
-                    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-                  </a>
-                  <a href="https://twitter.com/Jother043">
-                    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
                   </a>
                   <br>
                   <img src="https://komarev.com/ghpvc/?username=Jother043&style=flat-square&color=blue" alt=""/>
@@ -29,7 +21,7 @@
         </h1>
     </header>
     <div align="center">
-        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+        <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media2.giphy.com/media/PmAjqmm4beKervYzFr/200.webp?cid=ecf05e47lsgs83zqhf7ed8gsaoy75jcrxpqhk4yjcc823ofx&ep=v1_gifs_related&rid=200.webp&ct=g)" width="600" height="300"/>
     </div>
         <strong>:woman_technologist: Sobre mi :</strong>
          
