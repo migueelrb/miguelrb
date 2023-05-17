@@ -27,9 +27,10 @@
 </head>
 <body>
     <div class="container">
-        <a class="image-link" href="[https://www.ejemplo.com](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramador&psig=AOvVaw3TTBpKl9zdzBA2U3DF5mJ2&ust=1684399093066000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPi-xuL5-_4CFQAAAAAdAAAAABAE)">
+        <a class="image-link" href="[https://www.ejemplo.com](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
             <img src="ruta/a/imagen.webp" alt="Imagen de ejemplo">
         </a>
     </div>
 </body>
 </html>
+
